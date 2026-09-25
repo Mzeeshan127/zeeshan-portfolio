@@ -1,3 +1,4 @@
+// Portfolio homepage
 import Image from 'next/image';
 
 const projects = [
