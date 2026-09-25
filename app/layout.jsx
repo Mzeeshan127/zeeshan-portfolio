@@ -1,3 +1,4 @@
+// Root layout and page metadata
 import './globals.css';
 
 export const metadata = {
